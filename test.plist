@@ -17,13 +17,13 @@
                         <key>metadata</key>
                         <dict>
                                 <key>bundle-identifier</key>
-                                <string>3TGJXZVGL9.com.tianyu.iosbaby</string>
+                                <string>3TGJXZVGL9.com.tianyu.ios</string>
                                 <key>bundle-version</key>
                                 <string>0.6.3</string>
                                 <key>kind</key>
                                 <string>software</string>
                                 <key>title</key>
-                                <string>baby</string>
+                                <string>蒲荷孕育</string>
                         </dict>
                 </dict>
         </array>
