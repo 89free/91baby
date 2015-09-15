@@ -11,13 +11,13 @@
                                         <key>kind</key>
                                         <string>software-package</string>
                                         <key>url</key>
-                                        <string>http://www.91baby.cn/upload/201509/7c08b6fd-7ac6-41b3-9c16-256801902d31.ipa</string>
+                                        <string>http://www.91baby.cn/test/testfile/test9.ipa</string>
                                 </dict>
                         </array>
                         <key>metadata</key>
                         <dict>
                                 <key>bundle-identifier</key>
-                                <string>3TGJXZVGL9.com.tianyu.ios----</string>
+                                <string>3TGJXZVGL9.com.tianyu.ios</string>
                                 <key>bundle-version</key>
                                 <string>0.6.5</string>
                                 <key>kind</key>
