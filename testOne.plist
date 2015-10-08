@@ -17,7 +17,7 @@
                         <key>metadata</key>
                         <dict>
                                 <key>bundle-identifier</key>
-                                <string>com.tianyu.iosbaby</string>
+                                <string>com.tianyu.ios.babyPatient</string>
                                 <key>bundle-version</key>
                                 <string>0.6.0</string>
                                 <key>kind</key>
